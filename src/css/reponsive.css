@@ -1,0 +1,17 @@
+@media(max-width:400px) {
+    .blog-card {
+        width: 32.7rem;
+    }
+    .card-content {
+        font-size: 1.2rem;
+    }
+    .card-title {
+        font-size: 2rem;
+    }
+    .card-description {
+        font-size: 1.4rem;
+    }
+    .author-name {
+        font-size: 1.4rem;
+    }
+}
