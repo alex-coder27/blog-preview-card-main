@@ -62,13 +62,11 @@
 }
 
 .attribution {
-    font-size: 1.1rem;
+    font-size: 1.4rem;
     text-align: center;
 }
 
 .attribution a {
     color: var(--color-link-footer);
-    text-decoration: underline;
     font-weight: var(--font-weight-extrabold);
-    background-color: var(--color-primary);
 }
