@@ -68,4 +68,5 @@
 .attribution a {
     color: var(--color-link-footer);
     text-decoration: underline;
+    font-weight: var(--font-weight-extrabold);
 }
