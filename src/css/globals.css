@@ -27,5 +27,6 @@ body {
     max-width: 144rem;
     min-height: 100vh;
     font-size: 1.6rem;
+    gap: 3rem;
     background-color: var(--color-secundary);
 }
