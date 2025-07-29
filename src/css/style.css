@@ -34,11 +34,14 @@
 
 .card-title-link {
     color: var(--color-quaternary);
+    text-decoration: underline;
+    text-underline-offset: 0.3rem;
 }
 
 .card-title-link:hover,
 .card-title-link:focus {
     color: var(--color-secundary);
+    text-decoration-thickness: 0.2rem;
 }
 
 .card-description {
