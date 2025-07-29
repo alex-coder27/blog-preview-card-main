@@ -34,7 +34,6 @@
 
 .card-title-link {
     color: var(--color-quaternary);
-    text-decoration: underline;
 }
 
 .card-title-link:hover,
@@ -68,7 +67,6 @@
 
 .attribution a {
     color: var(--color-link-footer);
-    text-decoration: 0.2rem underline;
     font-weight: var(--font-weight-extrabold);
 }
 
