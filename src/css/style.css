@@ -40,7 +40,6 @@
 .card-title-link:hover,
 .card-title-link:focus {
     color: var(--color-secundary);
-    text-decoration: underline;
 }
 
 .card-description {
@@ -63,12 +62,12 @@
 }
 
 .attribution {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     text-align: center;
 }
 
 .attribution a {
     color: var(--color-link-footer);
-    text-decoration: underline;
+    text-decoration: 0.2rem underline;
     font-weight: var(--font-weight-extrabold);
 }
