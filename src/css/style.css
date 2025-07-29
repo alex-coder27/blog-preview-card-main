@@ -34,7 +34,6 @@
 
 .card-title-link {
     color: var(--color-quaternary);
-    text-decoration: none;
 }
 
 .card-title-link:hover,
