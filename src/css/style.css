@@ -71,3 +71,7 @@
     text-decoration: 0.2rem underline;
     font-weight: var(--font-weight-extrabold);
 }
+
+.attribution a:hover {
+    color: var(--color-hover-link);
+}

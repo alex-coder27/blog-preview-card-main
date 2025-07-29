@@ -4,6 +4,7 @@
     --color-tertiary: hsl(0, 0%, 42%);
     --color-quaternary: hsl(0, 0%, 7%);
     --color-link-footer: hsl(228, 86%, 24%);
+    --color-hover-link: hsl(211, 100%, 35.1%);
 
     --font-family: 'Figtree';
     --font-weight-medium: 500;
